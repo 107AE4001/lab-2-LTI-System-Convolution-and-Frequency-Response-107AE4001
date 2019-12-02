@@ -1,9 +1,26 @@
 # lab-2-LTI-System-Convolution-and-Frequency-Response-107AE4001
 
 
+## 原始頻譜圖
+![image](原始圖.jpg) 
+
 ## Lab2的音頻調頻圖
 ![image](音檔頻譜圖.jpg) 
 
+## 頻率響應——Forward_differernt
+![image](Forward_differernt.jpg)
+
+## 頻率響應——Backward_different
+![image](Backward_different.jpg)
+
+## 頻率響應——moving_average
+![image](moving_average.jpg)
+
+## 頻率響應——acc
+![image](acc.jpg)
+
+## 頻率響應——delay
+![image](delay.jpg)
 
 
 ## Lab2的主程式碼
