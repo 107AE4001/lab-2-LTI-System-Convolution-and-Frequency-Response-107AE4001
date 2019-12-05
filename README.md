@@ -175,7 +175,7 @@ y=zeros(1,length(h)+length(x)-1);
   
 end
 
-## myfrequ的主程式碼
+## myfrequ的程式碼
 function H =myfrequ(h,x)
 
 if ~exist('x','var')
